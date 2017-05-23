@@ -34,7 +34,7 @@
 * [6、 变换与动画](6-bian-huan-yu-dong-hua.md)
 * [7 、响应式](7-3001-xiang-ying-shi.md)
 * [8、 兼容性](8-jian-rong-xing.md)
-  * 8.1、 属性前缀
-  * 8.2、 Hack
-  * 8.3、 Expression
+  * [8.1、 属性前缀](8-jian-rong-xing/81-shu-xing-qian-zhui.md)
+  * [8.2、 Hack](8-jian-rong-xing/82-hack.md)
+  * [8.3、 Expression](8-jian-rong-xing/83-expression.md)
 
