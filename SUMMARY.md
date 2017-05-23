@@ -2,7 +2,7 @@
 
 ## Overview
 
-* [东方国信用户体验前面css规范](README.md)
+* [前端css规范文档](README.md)
 * [1、 前言](1-qian-yan.md)
 * [2、 代码风格](2-dai-ma-feng-ge.md)
   * [2.1、 文件](2-dai-ma-feng-ge/21-wen-jian.md)
