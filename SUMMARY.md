@@ -26,7 +26,7 @@
   * [4.5、 颜色](43001-zhi-yu-dan-wei/45-yan-se.md)
   * [4.6、 2D 位置](43001-zhi-yu-dan-wei/46-2d-wei-zhi.md)
 * [5、 文本编排](5-wen-ben-bian-pai.md)
-  * 5.1、 字体族
+  * [5.1、 字体族](5-wen-ben-bian-pai/51-zi-ti-zu.md)
   * 5.2、 字号
   * 5.3、 字体风格
   * 5.4、 字重
