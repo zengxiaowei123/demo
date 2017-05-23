@@ -27,12 +27,12 @@
   * [4.6、 2D 位置](43001-zhi-yu-dan-wei/46-2d-wei-zhi.md)
 * [5、 文本编排](5-wen-ben-bian-pai.md)
   * [5.1、 字体族](5-wen-ben-bian-pai/51-zi-ti-zu.md)
-  * 5.2、 字号
-  * 5.3、 字体风格
-  * 5.4、 字重
-  * 5.5、 行高
+  * [5.2、 字号](5-wen-ben-bian-pai/52-zi-hao.md)
+  * [5.3、 字体风格](5-wen-ben-bian-pai/53-zi-ti-feng-ge.md)
+  * [5.4、 字重](5-wen-ben-bian-pai/54-zi-zhong.md)
+  * [5.5、 行高](5-wen-ben-bian-pai/55-xing-gao.md)
 * [6、 变换与动画](6-bian-huan-yu-dong-hua.md)
-* 7 、响应式
+* [7 、响应式](7-3001-xiang-ying-shi.md)
 * [8、 兼容性](8-jian-rong-xing.md)
   * 8.1、 属性前缀
   * 8.2、 Hack
